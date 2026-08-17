@@ -1,0 +1,9 @@
+bucket,bucket_type,item_code,item_label,window,window_type,n_events,sample_status,fdr_family,mean_car_pct,mean_abs_car_pct,mean_gap_car_pct,mean_session_car_pct,mean_abs_gap_car_pct,mean_abs_session_car_pct,direction_q_value,direction_significant,magnitude_q_value,magnitude_significant
+ALL,all,ALL,All 8-K filings pooled,[0],reaction,29331,ok,post_event,-0.1208,3.4993,-0.0249,-0.0555,2.3578,2.4299,0.000367,true,0.0,true
+ALL,all,2.02,Results of operations (earnings),[0],reaction,11241,ok,post_event,-0.1542,6.1024,-0.0818,-0.031,4.682,3.7967,0.104356,false,0.0,true
+ALL,all,2.02,Results of operations (earnings),"[0,+5]",reaction,11241,ok,post_event,-0.3599,7.4872,-0.0113,-0.1002,5.1562,5.3981,0.002715,true,0.0,true
+ALL,all,5.02,"Officer/director departures, elections, appointments",[0],reaction,6053,ok,post_event,-0.4591,2.2097,-0.2282,-0.172,1.2325,1.782,0.0,true,0.0,true
+Large,company_size,2.02,Results of operations (earnings),[0],reaction,1262,ok,post_event,-0.0756,4.7098,-0.1253,0.0531,4.1054,2.1769,0.902037,false,0.0,true
+Small,company_size,2.02,Results of operations (earnings),[0],reaction,5347,ok,post_event,-0.3095,6.9706,-0.1533,-0.0934,5.2117,4.4883,0.02271,true,0.0,true
+ALL,all,8.01,Other events (catch-all),[0],reaction,5923,ok,post_event,-0.0458,2.7616,0.1106,-0.1258,1.7518,1.9482,0.606919,false,0.0,true
+ALL,all,ALL,All 8-K filings pooled,"[-5,-1]",pre_filing,29331,ok,pre_event,0.0181,3.6835,0.1025,0.1182,1.8303,3.2659,0.811898,false,1.0,false
