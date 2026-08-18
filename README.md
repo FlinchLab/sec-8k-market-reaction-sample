@@ -1,6 +1,6 @@
 # Historical SEC 8-K Market-Reaction Dataset — by FlinchLab
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21986317.svg)](https://doi.org/10.5281/zenodo.21986317)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21986316.svg)](https://doi.org/10.5281/zenodo.21986316)
 
 **Know what each kind of company news historically did to the stock —
 before you build on top of it.** 29,331 SEC 8-K filings from 660 US
@@ -10,7 +10,7 @@ every published finding validated on two independent out-of-sample
 holdouts.
 
 **Download the free layer** (this repo): [`preview.csv`](preview.csv) —
-8 rows, the complete 20-column schema, real figures ·
+8 rows, the complete column schema, real figures ·
 [`data_dictionary.csv`](data_dictionary.csv) — every field defined ·
 [`methodology.md`](methodology.md) — the full method and its limitations.
 The complete dataset (1,668 aggregate cells + 104 validated findings, run
@@ -84,16 +84,16 @@ and caveats:
   title   = {Historical SEC 8-K Market-Reaction Dataset},
   author  = {{FlinchLab}},
   year    = {2026},
-  doi     = {10.5281/zenodo.21986317},
+  doi     = {10.5281/zenodo.21986316},
   url     = {https://flinchlab.com/dataset},
-  note    = {Version 0.1.0, run dated 2026-08-14. Quote figures with the run date.}
+  note    = {Version 0.1.1, run dated 2026-08-14. Quote figures with the run date.}
 }
 ```
 
 The free layer is also on
 [Hugging Face](https://huggingface.co/datasets/Flinchlab/sec-8k-market-reaction-dataset)
 (interactive table) and archived on
-[Zenodo](https://doi.org/10.5281/zenodo.21986317) (DOI).
+[Zenodo](https://doi.org/10.5281/zenodo.21986316) (DOI).
 
 ## The complete dataset
 
