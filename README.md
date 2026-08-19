@@ -113,7 +113,7 @@ them; everything is reproducible from the methodology page at
 ## Provenance and versioning
 
 Source filings: SEC EDGAR (public). Prices: public market-data APIs.
-Dataset version 0.1.0 · methodology version 2026-08-14 · produced by
+Dataset version 0.1.1 · methodology version 2026-08-14 · produced by
 a pipeline gated on a 250+-test suite including planted-effect recovery and
 no-false-positive controls on synthetic data. This is a bounded historical
 release; no update schedule is promised.
